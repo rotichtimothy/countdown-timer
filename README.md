@@ -1,7 +1,5 @@
 # Countdown Timer
 
-![Countdown Timer Screenshot](screenshot.png)
-
 ## Description
 
 The Countdown Timer is a web-based application built using HTML, CSS, and JavaScript. It allows users to set a target date and displays the remaining time in days, hours, minutes, and seconds. The timer includes smooth animations, an alert sound when the countdown reaches zero, and responsive design to ensure it looks great on all devices.
